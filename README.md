@@ -7,7 +7,7 @@ I'm **Abhijeet Kushwaha**, a passionate software developer from **Padrauna, Kush
 ## 🚀 About Me
 
 - 🏠 **Location**: Padrauna, Kushinagar, U.P., India  
-- 📱 **Current Focus**: Building mobile applications & enhancing UI/UX  
+- 📱 **Current Focus**: Building mobile applications & learning about AI tools 
 - 📚 **Learning**: Kotlin | Data Structures & Algorithms (DSA) | App Architecture  
 - 🧠 **Interests**: Reading wisdom literature, playing badminton, and diving into philosophy  
 - 💌 **Contact Me**:
