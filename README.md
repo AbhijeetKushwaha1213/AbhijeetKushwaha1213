@@ -48,7 +48,7 @@ Here are a few highlights from my repositories:
   A community-driven civic engagement app connecting people to solve local urban issues collaboratively.
 
 - 🚧 **[konnekt](https://github.com/AbhijeetKushwaha1213/kaneekt.git)**  
-  _[A social-media platform where people can finf and connect of same interest]_.
+  _[A social-media platform where people can find and connect people of same interest,hobbies and mindset]_.
 
 
 ---
