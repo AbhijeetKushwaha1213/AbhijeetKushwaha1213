@@ -45,10 +45,10 @@ I'm **Abhijeet Kushwaha**, a passionate software developer from **Padrauna, Kush
 
 Here are a few highlights from my repositories:
 
-- 🔧 **[Urban Care Collab](https://github.com/AbhijeetKushwaha1213/urban-care-collab-main)**  
+- 🔧 **[Nagar_Setu](https://github.com/AbhijeetKushwaha1213/urban-care-collab-main)**  
   A community-driven civic engagement app connecting people to solve local urban issues collaboratively.
 
-- 🚧 **[konnekt](https://github.com/AbhijeetKushwaha1213/kaneekt.git)**  
+- 🚧 **[syncterest](https://github.com/AbhijeetKushwaha1213/kaneekt.git)**  
   _[A social-media platform where people can find and connect people of same interest,hobbies and mindset]_.
 
 
