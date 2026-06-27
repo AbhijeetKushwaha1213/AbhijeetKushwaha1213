@@ -8,7 +8,7 @@ I'm **Abhijeet Kushwaha**, a passionate software developer from **Padrauna, Kush
 
 - 🏠 **Location**: Padrauna, Kushinagar, U.P., India  
 - 📱 **Current Focus**: Building webapp & learning about AI tools 
-- 📚 **Learning**: AI-Ml|Python| Data Structures & Algorithms (DSA) | Mern 
+- 📚 **Learning**: AI-Ml|Python| Data Structures & Algorithms (DSA) |Sql
 - 🧠 **Interests**: Reading wisdom literature, playing badminton, and diving into philosophy  
 - 💌 **Contact Me**:
   - ✉️ Email: [abhijeetkushwaha1213@gmail.com](mailto:abhijeetkushwaha1213@gmail.com)
